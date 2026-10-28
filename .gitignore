@@ -1,0 +1,9 @@
+node_modules/
+*.log
+*.tgz
+.playwright-mcp/
+.mimosa/
+.zcode/
+attention-lens-v*.png
+attention-lens-panel.png
+attention-lens-settings.png

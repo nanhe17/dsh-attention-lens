@@ -1,0 +1,5 @@
+- insert:
+    - id: attention-lens
+      name: dsh-attention-lens
+      config:
+        maxSegments: 400
